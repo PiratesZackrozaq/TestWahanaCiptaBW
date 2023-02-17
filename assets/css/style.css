@@ -2354,7 +2354,7 @@ hr {
 }
 
 .section-tittle .front-text h2 {
-    color: #0e132a;
+    color: #03045E;
     font-size: 70px;
     font-weight: 700;
     line-height: 1.2;
@@ -2381,7 +2381,7 @@ hr {
     font-weight: 800;
     text-transform: uppercase;
     -webkit-text-stroke: 1px #f6f7f8;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: #CCD5CC;
     margin: 0;
     line-height: 1;
     position: absolute;
@@ -2411,7 +2411,7 @@ hr {
 }
 
 .section-tittle.section-tittle2 .front-text h2 {
-    font-size: 100px
+    font-size: 70px
 }
 
 @media (max-width: 575px) {
@@ -2438,7 +2438,7 @@ hr {
 
 @media only screen and (min-width: 1200px) and (max-width: 1440px) {
     .section-tittle.section-tittle2 span.back-text {
-        font-size: 119px
+        font-size: 129px
     }
 }
 
@@ -2731,7 +2731,7 @@ hr {
 }
 
 .header-area .header-top .header-info-left ul li {
-    color: #fff;
+    color: #1f2b7b;
     display: inline-block;
     margin-right: 45px;
     font-family: "Barlow", sans-serif;
