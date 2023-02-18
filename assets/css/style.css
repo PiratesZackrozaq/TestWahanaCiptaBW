@@ -3041,7 +3041,7 @@ hr {
     font-family: 'Barlow', sans-serif;
     line-height: 1;
     text-transform: uppercase;
-    color: #ff5f13;
+    color: #a7c957;
     margin: 0;
     padding: 0
 }
@@ -3146,7 +3146,7 @@ hr {
 }
 
 .slider-area .hero__caption .stock-text h2:nth-child(2) {
-    color: #ff5f13;
+    color: #a7c957;
     -webkit-animation: animate 4s ease-in-out infinite;
     animation: animate 4s ease-in-out infinite
 }
