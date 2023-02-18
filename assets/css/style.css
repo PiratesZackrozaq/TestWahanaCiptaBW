@@ -2849,7 +2849,14 @@ hr {
 
 @media (max-width: 575px) {
     .main-header .logo .big-logo {
-        display: none
+        display: none;
+        width: 100vw;
+        height: 100vh;
+        object-fit: cover;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: -1;
     }
 }
 
