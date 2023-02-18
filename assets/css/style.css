@@ -2356,7 +2356,7 @@ hr {
 }
 
 .section-tittle .front-text h2 {
-    color: #03045E;
+    color: #e9edc9;
     font-size: 70px;
     font-weight: 700;
     line-height: 1.2;
@@ -2383,7 +2383,7 @@ hr {
     font-weight: 800;
     text-transform: uppercase;
     -webkit-text-stroke: 1px #f6f7f8;
-    -webkit-text-fill-color: #CCD5CC;
+    -webkit-text-fill-color: #283618;
     margin: 0;
     line-height: 1;
     position: absolute;
@@ -4450,7 +4450,7 @@ hr {
 }
 
 .footer-area {
-    background: #070b11;
+    background: #ffbe0b;
     position: relative;
     overflow: hidden
 }
@@ -4535,7 +4535,7 @@ hr {
 }
 
 .footer-area .footer-tittle h4 {
-    color: #fff;
+    color: #1f2b7b;
     font-size: 35px;
     margin-bottom: 29px;
     font-weight: 500;
@@ -4543,7 +4543,7 @@ hr {
 }
 
 .footer-area .footer-tittle ul li {
-    color: #9fa6bd;
+    color: #1f2b7b;
     margin-bottom: 15px
 }
 
@@ -4558,7 +4558,7 @@ hr {
 }
 
 .footer-area .footer-tittle p {
-    color: #9fa6bd
+    color: #1f2b7b
 }
 
 .footer-area .footer-form {
@@ -4628,7 +4628,7 @@ hr {
 }
 
 .footer-area .footer-copy-right p {
-    color: #9fa6bd;
+    color: #1f2b7b;
     font-weight: 300;
     font-size: 16px;
     line-height: 2;
