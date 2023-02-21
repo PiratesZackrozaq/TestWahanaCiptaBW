@@ -44,6 +44,15 @@
     color: #ff5f13
 }
 
+/* Style Img Organisasi struktur */
+.organisasi-struktur {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    background-color: #f9fafc;
+    border: 2px solid #0a0f17;
+}
+
 /* Style Text Justify */
 .justify-text {
     text-align: justify;
