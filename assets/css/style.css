@@ -2948,7 +2948,10 @@ hr {
     min-height: 900px;
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: cover
+    background-size: cover;
+    top: 0;
+  left: 0;
+  z-index: -1;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
