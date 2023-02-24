@@ -2365,7 +2365,8 @@ hr {
 }
 
 .section-tittle .front-text h2 {
-    color: #E5D9B6;
+    -webkit-text-stroke: 2px #EFEAD8;
+    -webkit-text-fill-color: transparent;
     font-size: 70px;
     font-weight: 700;
     line-height: 1.2;
@@ -2391,8 +2392,8 @@ hr {
     font-size: 140px;
     font-weight: 800;
     text-transform: uppercase;
-    -webkit-text-stroke: 1px #f6f7f8;
-    -webkit-text-fill-color: #285430;
+    -webkit-text-stroke: 2px #EFEAD8;
+    -webkit-text-fill-color: #2C3639;
     margin: 0;
     line-height: 1;
     position: absolute;
