@@ -3047,6 +3047,7 @@ hr {
     font-family: 'Barlow', sans-serif;
     line-height: 1;
     text-transform: uppercase;
+    -webkit-text-stroke: 2px #2C3639;
     color: #a7c957;
     margin: 0;
     padding: 0;
@@ -3119,6 +3120,7 @@ hr {
     line-height: 2.5;
     text-transform: uppercase;
     position: absolute;
+    -webkit-text-stroke: 2px #2C3639;
     color: #fff
 }
 
