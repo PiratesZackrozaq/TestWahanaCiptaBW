@@ -3043,7 +3043,6 @@ hr {
 .slider-area .hero__caption h1 {
     font-size: 42px;
     font-weight: 900;
-    color: #ffffff;
     font-family: 'Barlow', sans-serif;
     line-height: 1;
     text-transform: uppercase;
@@ -3121,7 +3120,7 @@ hr {
     text-transform: uppercase;
     position: absolute;
     -webkit-text-stroke: 2px #2C3639;
-    color: #fff
+    color: #a7c957
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -3178,7 +3177,8 @@ hr {
 .slider-area .hero__caption .hero-text2 span,
 .slider-area .hero__caption .hero-text2 a {
     position: relative;
-    color: #fff;
+    -webkit-text-stroke: 1px #C9E4C5;
+    color: #FAEBE0;
     font-size: 18px;
     text-transform: uppercase;
     font-family: "Teko", sans-serif;
