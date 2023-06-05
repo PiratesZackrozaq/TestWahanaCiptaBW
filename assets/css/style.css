@@ -57,7 +57,6 @@
 .justify-text {
     text-align: justify;
     text-justify: inter-word;
-    background-color: #ffff;
 }
 
 /* Style Text Logo PT */
@@ -3427,10 +3426,12 @@ hr {
     background: #ff5f13
 }
 
+/*Who we are section*/
 .support-company-area .support-wrapper {
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap
+    flex-wrap: wrap;
+    background-color: #ffff;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
