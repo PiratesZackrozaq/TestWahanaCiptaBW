@@ -57,6 +57,7 @@
 .justify-text {
     text-align: justify;
     text-justify: inter-word;
+    background-color: #ffff;
 }
 
 /* Style Text Logo PT */
